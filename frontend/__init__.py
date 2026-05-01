@@ -1,0 +1,3 @@
+"""
+Online Bookstore Frontend package
+"""
