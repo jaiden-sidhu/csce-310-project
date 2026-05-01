@@ -53,10 +53,10 @@ pip install -r requirements.txt
 Edit `config.py` and update the database credentials if needed:
 ```python
 DB_CONFIG = {
-    'user': 'root',
-    'password': 'lpsfrrico',  # Your MySQL password
-    'host': 'localhost',
-    'database': 'Project'
+    'user': '[username]',
+    'password': '[password]',  # Your MySQL password
+    'host': '[hostname]',
+    'database': '[database]'
 }
 ```
 
